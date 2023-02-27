@@ -18,8 +18,9 @@ public class Progect1 {
         // TODO code application logic here
         System.out.println("Hello world");
         System.out.println("Hello mam");
-        System.out.println("Hello dad");
-        System.out.println("hi all");
+        System.out.println("Hello father");
+        System.out.println("aloxa");
+        System.out.println("hi");
         
     }
     
