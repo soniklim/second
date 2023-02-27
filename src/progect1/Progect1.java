@@ -21,6 +21,9 @@ public class Progect1 {
         System.out.println("Hello father");
         System.out.println("aloxa");
         System.out.println("hi");
+        System.out.println("Hello dad");
+        System.out.println("hi all");
+        System.out.println("all");
         
     }
     
