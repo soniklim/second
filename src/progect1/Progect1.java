@@ -20,6 +20,7 @@ public class Progect1 {
         System.out.println("Hello mam");
         System.out.println("Hello dad");
         System.out.println("hi all");
+        System.out.println("all");
         
     }
     
